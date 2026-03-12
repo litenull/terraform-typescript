@@ -134,14 +134,3 @@ type Dependencies<R extends AllResources> =
   : []
 ```
 
-## Benefits
-
-1. **Compile-Time Safety**: Catch infrastructure errors before deployment
-2. **Self-Documenting**: Types serve as documentation
-3. **Zero Overhead**: No runtime code generation
-4. **IDE Support**: Full autocomplete and type checking
-
-## License
-
-MIT
-# terraform-typescript
